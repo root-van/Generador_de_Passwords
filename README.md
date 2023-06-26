@@ -10,7 +10,7 @@ Este script es un generador de contraseñas aleatorias diseñado para crear cont
 ## Uso
 
 1. Clona o descarga este repositorio en tu máquina local.
-2. Ejecuta el script `generar_password.py` utilizando Python 3.
+2. Ejecuta el script `generar_passwords.py` utilizando Python 3.
 3. Sigue las instrucciones en pantalla para personalizar la configuración de la contraseña, como la longitud y los tipos de caracteres a incluir.
 4. Una vez que hayas configurado las preferencias, el script generará una contraseña aleatoria basada en tus criterios.
 5. Copia y utiliza la contraseña generada en tus aplicaciones o cuentas en línea.
